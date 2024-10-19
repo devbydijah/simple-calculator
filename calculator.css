@@ -104,28 +104,28 @@ h1 {
 
 @media (max-width: 768px) {
   #calculator {
-    width: 90%; 
+    width: 40%; 
     max-width: 300px;
     margin: 20px auto;
   }
   .btn {
-    width: 50px;
+    width: 5px;
     height: 50px;
     font-size: 16px;
-    margin: 2px; 
+    margin: 1px; 
   }
 }
 
 @media (max-width: 576px) {
   #calculator {
-    width: 95%; 
+    width: 40%; 
     padding: 10px;
   }
   .btn {
     width: 45px;
-    height: 45px;
+    height: 50px;
     font-size: 16px;
-    margin: 2px; 
+    margin: 1px; 
   }
 }
 
