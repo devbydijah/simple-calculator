@@ -104,8 +104,8 @@ h1 {
 
 @media (max-width: 768px) {
   #calculator {
-    width: 90%; /* Allow the calculator to take 90% of the screen on smaller devices */
-    max-width: 300px; /* Set a maximum width to maintain size */
+    width: 50%; /* Allow the calculator to take 90% of the screen on smaller devices */
+    max-width: 100px; /* Set a maximum width to maintain size */
     margin: 20px auto;
   }
   .btn {
@@ -117,7 +117,7 @@ h1 {
 
 @media (max-width: 576px) {
   #calculator {
-    width: 90%; /* Ensure it stays within the screen */
+    width: 50%; /* Ensure it stays within the screen */
     padding: 10px;
     box-shadow: none;
   }
